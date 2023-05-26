@@ -122,4 +122,4 @@ jobs:
         with:
           context: ./gateway/
           push: true
-          tags: username/taski_gateway:latest
+          tags: aynikitosa/taski_gateway:latest
